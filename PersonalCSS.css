@@ -1,0 +1,57 @@
+body{
+  width: 800px;
+  margin: auto;
+}
+footer{
+  background-image: url("Blush leopard print pink leopard skin.jpg");
+  background-repeat: repeat;
+  position: absolute;
+  bottom: 0;
+  width: 800px;
+}
+footer a{
+  text-decoration: none;
+  font-family: Verdana ;
+  font-size: 25px;
+  color: #6B7D7D;
+  margin-left: 100px;
+}
+footer a:visited{
+  text-decoration: none;
+  font-family: Verdana ;
+  font-size: 25px;
+  color: black;
+  margin-left: 100px;
+}
+footer a:hover{
+  text-decoration: none;
+  font-family: Verdana ;
+  font-size: 25px;
+  color: deeppink;
+  margin-left: 100px;
+}
+p{
+  font-family: Verdana;
+}
+.pink{
+
+  background-image: url("Blush leopard print pink leopard skin.jpg");
+  background-repeat: repeat;
+  width: 800px;
+  position: absolute;
+  top: 0;
+}
+
+.images-right{
+  border: 1px solid gray;
+  padding-top: 13px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-bottom: 20px;
+  text-align: center;
+  box-shadow: 3px 3px 3px gray;
+  float: right;
+}
+.after{
+  clear: both;
+}
